@@ -40,6 +40,7 @@ module GitHubPages
       jekyll-octicons
       jekyll-remote-theme
       jekyll-twitter-plugin
+      octopress-social
     ).freeze
 
     # Plugins only allowed locally

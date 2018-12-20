@@ -47,6 +47,9 @@ module GitHubPages
 
       # Pin activesupport because 5.0 is broken on 2.1
       "activesupport"             => "4.2.10",
+
+      # Share Button
+      "octopress-social"          => "1.4.5",
     }.freeze
 
     # Jekyll and related dependency versions as used by GitHub Pages.
